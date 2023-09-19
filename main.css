@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(226, 222, 222);
+}
+
+.operacao{
+align-items: center;
+text-align: center;
+margin-top: 100px;
+}
+
+h1{
+    font-size: 50px;
+    font-style: italic;
+}
+
+form input{
+    width: 500px;
+    height: 25px;
+    margin-top: 50px;
+}
+form button{
+    width: 100px;
+    height: 25px;
+}
+.center{
+    margin-left: 700px;
+    }
+table{
+    text-decoration: line-through;
+    
+}
+table{
+    text-decoration: none;
+}
